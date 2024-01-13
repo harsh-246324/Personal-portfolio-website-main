@@ -10,7 +10,8 @@ This is a theme-based portfolio website template designed using HTML and CSS. Th
 
 - **Portfolio Sections:** Organize and showcase your work, skills, education, and other relevant information in dedicated sections.
 
-- LIVE WEBSITE LINK :  https://sweet-mooncake-922759.netlify.app/
+- LIVE WEBSITE LINK :  https://spontaneous-sprinkles-572385.netlify.app/
+  
 
 ## Getting Started
 
