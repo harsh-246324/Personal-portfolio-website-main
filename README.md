@@ -40,13 +40,5 @@ This is a theme-based portfolio website template designed using HTML and CSS. Th
 
 ## Theme Customization
 
-The `theme-switcher.js` file allows you to switch between different themes. Customize the themes by modifying the corresponding CSS files (e.g., `light-theme.css`, `dark-theme.css`).
+The `script.js` file allows you to switch between different themes. Customize the themes by modifying the corresponding CSS files.
 
-```javascript
-function toggleTheme() {
-    const themeLink = document.getElementById('theme-link');
-    const currentTheme = themeLink.getAttribute('href');
-    const newTheme = currentTheme.includes('light') ? 'dark-theme.css' : 'light-theme.css';
-
-    themeLink.setAttribute('href', newTheme);
-}
