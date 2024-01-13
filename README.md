@@ -15,7 +15,7 @@ This is a theme-based portfolio website template designed using HTML and CSS. Th
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/portfolio-website.git
+    [git clone https://github.com/your-username/portfolio-website.git](https://github.com/harsh-246324/Personal-portfolio-website-main.git)
     ```
 
 2. Navigate to the project directory:
